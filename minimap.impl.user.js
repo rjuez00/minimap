@@ -61,8 +61,8 @@ const { html, render } = mlp_uhtml;
 
   const rPlaceTemplatesGithubLfs = true;
   const rPlaceTemplateBaseUrl = rPlaceTemplatesGithubLfs
-    ? "https://media.githubusercontent.com/media/r-ainbowroad/minimap/d/main"
-    : "https://raw.githubusercontent.com/r-ainbowroad/minimap/d/main";
+    ? "https://media.githubusercontent.com/media/rjuez00/minimap/d/main"
+    : "https://raw.githubusercontent.com/rjuez00/minimap/d/main";
   const getRPlaceTemplateUrl = function (templateName, type) {
     return `${rPlaceTemplateBaseUrl}/${templateName}/${type}.png`;
   };
@@ -80,6 +80,7 @@ const { html, render } = mlp_uhtml;
   addRPlaceTemplate("r-ainbowroad", { bot: true, mask: true });
   addRPlaceTemplate("spain", { bot: true, mask: true });
   addRPlaceTemplate("phoenixmc", { bot: true, mask: true });
+  addRPlaceTemplate("fernando_alonso", { bot: true, mask: true });
   let rPlaceTemplateName;
   let rPlaceTemplate;
   let rPlaceMask = undefined;
