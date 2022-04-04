@@ -1,6 +1,7 @@
 # /r/Place collaborative minimap userscript
+# Fernando Alonso pixel art defend for r/place
+## Yes using scripts its bad but its FOR EL NANO!!!!!
 ## Do you speak Spanish? [Read this instead.](README.es.md)
-
 
 ## Instructions
 
