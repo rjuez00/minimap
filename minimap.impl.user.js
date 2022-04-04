@@ -80,7 +80,7 @@ const { html, render } = mlp_uhtml;
   addRPlaceTemplate("r-ainbowroad", { bot: true, mask: true });
   addRPlaceTemplate("spain", { bot: true, mask: true });
   addRPlaceTemplate("phoenixmc", { bot: true, mask: true });
-  addRPlaceTemplate("fernando_alonso", { bot: true, mask: true });
+  addRPlaceTemplate("fernando_alonso", { bot: true, mask: false });
   let rPlaceTemplateName;
   let rPlaceTemplate;
   let rPlaceMask = undefined;
